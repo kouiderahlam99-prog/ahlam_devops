@@ -3,3 +3,8 @@ p { line-height: 1.5; }
 h1 { color: blue;}
 .menu { background-color: #98fb98; color: #ffffff; }
 .menu { padding: 10px;}
+
+.copyright {
+    text-align: center;
+    color: #666666;
+}
