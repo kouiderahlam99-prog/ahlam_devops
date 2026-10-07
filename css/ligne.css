@@ -1,3 +1,17 @@
 body { margin: 0; font-family: sans-sherif; }
 p { line-height: 1.5; }
 h1 { color: blue; } 
+
+.menu {
+    background-color: #98fb98;
+    color: #ffffff;
+    padding: 12px;
+}
+
+.copyright {
+    text-align: center;
+    color: #666666;
+    font-size: 12px;
+
+
+}
